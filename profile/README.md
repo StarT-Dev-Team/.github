@@ -14,7 +14,7 @@ This organization hosts all official repositories related to the **Star Technolo
 |-----------|------------|
 | [Star-Technology](https://github.com/StarT-Dev-Team/Star-Technology) | Main modpack repository |
 | [StarT-Core](https://github.com/StarT-Dev-Team/StarT-Core) | Core mod and addon to GTM providing new functionalities |
-| [StarT-Wiki](https://github.com/StarT-Dev-Team/StarT-Core) | Wiki for the modpack |
+| [StarT-Wiki](https://github.com/StarT-Dev-Team/StarT-Wiki) | Wiki for the modpack |
 
 ---
 
