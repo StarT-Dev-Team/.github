@@ -26,7 +26,7 @@ We’re a small, focused dev team collaborating on long-term projects.
 |----|--------|
 | Project Lead | [trulyno](https://github.com/orgs/StarT-Dev-Team/people/trulyno), [KillLaAqua](https://github.com/orgs/StarT-Dev-Team/people/KillLaAqua) |
 | Developers | [stellaurora](https://github.com/orgs/StarT-Dev-Team/people/stellaurora), [UltraPuPower](https://github.com/orgs/StarT-Dev-Team/people/UltraPuPower) |
-| Helpers | [CosmicEcl07](https://github.com/orgs/StarT-Dev-Team/people/CosmicEcl07), [Crazyman503](https://github.com/orgs/StarT-Dev-Team/people/Crazyman503), [Deniss1067](https://github.com/orgs/StarT-Dev-Team/people/Deniss1067), [Kolja](https://github.com/orgs/StarT-Dev-Team/people/ko-lja), [Luzifer Senpai](https://github.com/orgs/StarT-Dev-Team/people/LuziferSenpai), [n1xx1](https://github.com/orgs/StarT-Dev-Team/people/n1xx1), [oTurquoise](https://github.com/orgs/StarT-Dev-Team/people/oTurquoise), [Shammy](https://github.com/orgs/StarT-Dev-Team/people/shammysham) |
+| Helpers | [CosmicEcl07](https://github.com/orgs/StarT-Dev-Team/people/CosmicEcl07), [Crazyman503](https://github.com/orgs/StarT-Dev-Team/people/Crazyman503), [Deniss1067](https://github.com/orgs/StarT-Dev-Team/people/Deniss1067), [Kolja](https://github.com/orgs/StarT-Dev-Team/people/ko-lja), [Luzifer Senpai](https://github.com/orgs/StarT-Dev-Team/people/LuziferSenpai), [n1xx1](https://github.com/orgs/StarT-Dev-Team/people/n1xx1), [oTurquoise](https://github.com/orgs/StarT-Dev-Team/people/oTurquoise) |
 | Art & Assets | [AzDoesCode](https://github.com/AzDoesCode) |
 
 ---
