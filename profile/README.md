@@ -26,8 +26,8 @@ We’re a small, focused dev team collaborating on long-term projects.
 | Role | Members |
 |----|--------|
 | Project Lead | [trulyno](https://github.com/trulyno) |
-| Developers | [UltraPuPower](https://github.com/orgs/UltraPuPower) |
-| Helpers | [CosmicEcl07](https://github.com/CosmicEcl07), [Crazyman503](https://github.com/Crazyman503), [Kolja](https://github.com/ko-lja), [Luzifer Senpai](https://github.com/LuziferSenpai), [n1xx1](https://github.com/n1xx1) |
+| Developers | [UltraPuPower](https://github.com/orgs/UltraPuPower), [CosmicEcl07](https://github.com/CosmicEcl07), [Crazyman503](https://github.com/Crazyman503), [Kolja](https://github.com/ko-lja), [Luzifer Senpai](https://github.com/LuziferSenpai), [n1xx1](https://github.com/n1xx1) |
+| Helpers | [ArioTheSnekDragon](https://github.com/ArioTheSnekDragon), [HamCorp](https://github.com/ham-corp), [Waaaly12](https://github.com/Waaaly12) |
 
 Thank you [KillLaAqua](https://github.com/KillLaAqua) and [stellaurora](https://github.com/stellaurora) for all your contributions!
 
