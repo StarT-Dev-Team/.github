@@ -14,7 +14,7 @@ This organization hosts all official repositories related to the **Star Technolo
 |-----------|------------|
 | [Star-Technology](https://github.com/StarT-Dev-Team/Star-Technology) | Main modpack repository |
 | [StarT-Core](https://github.com/StarT-Dev-Team/StarT-Core) | Core mod and addon to GTM providing new functionalities |
-| [GregTech-Fork](https://github.com/StarT-Dev-Team/GTM-StarT-Fork) | GregTech Fork |
+| [GTM-StarT-Fork](https://github.com/StarT-Dev-Team/GTM-StarT-Fork) | GregTech CEu: Modern StarT Fork |
 | [StarT-Wiki](https://github.com/StarT-Dev-Team/StarT-Wiki) | Wiki for the modpack |
 
 ---
